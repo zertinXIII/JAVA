@@ -1,8 +1,8 @@
-package B1_VARIABLES_y_CONDICIONALES;
+package b1_variablesYcondicionales;
 
 import utilidades.Entrada;
 
-public class EJ1_PedirCoeficientes_2dogr {  
+public class EJ1_Ecuacion2doGrado {
     public static void main(String[] args) {
 
         // Declaración de coeficientes ax^2 + bx + c = 0
